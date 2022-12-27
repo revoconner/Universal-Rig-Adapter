@@ -14,7 +14,7 @@ For non commercial use, use this file here. If you make money out of this projec
 3. In case you wanna scale your current model in the scene.
 
 ## Video Demo and Tutorial
-https://youtu.be/z5zVzB6rCZU
+https://youtu.be/VRcPe2P-hlk
 
 ## Instructions on how to use.
 1. Run from script editor or save to shelf. You can save the py script anywhere, it's not path dependant.
