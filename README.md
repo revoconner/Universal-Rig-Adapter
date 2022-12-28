@@ -4,7 +4,7 @@ Fit rigged joint skeleton to mesh that has been modified, or scaled, with the we
 ![image](https://user-images.githubusercontent.com/88772846/209735789-54982a17-dadb-4728-8a8e-82f2c36ee474.png)
 
 ## Commercial / Non Commercial Use
-For non commercial use, use this file here. If you make money out of this project, or you use it in a project that makes money for you or a third party, please buy the commercial license from Artstation. There is not funcional change in both the version, just that one helps me pay the bills.
+For non commercial use, use this file here. If you make money out of this project, or you use it in a project that makes money for you or a third party, please buy the commercial license from Artstation. There is no funcional changes in both the versions, just that one helps me pay the bills.
 
 
 
