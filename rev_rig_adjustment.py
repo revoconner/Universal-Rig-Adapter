@@ -1,6 +1,7 @@
 from maya import cmds
 import maya.api.OpenMaya as om
-import os
+#import os
+import maya.mel as mel
 #creating a class for global variables used in different functions.
 class globalVar:
 	def __init__(self):
