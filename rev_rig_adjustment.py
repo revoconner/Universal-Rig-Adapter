@@ -358,7 +358,7 @@ def exportWeightsdiceat(*args):
 		
 		for key in list(mgv.verticeDict.keys()):
 			
-			newKey = str(gv.new_mesh)+"Shape."+key.split("Shape.")[1]
+			newKey = str(gv.new_mesh)+"."+key.split("Shape.")[1]
 
 			try:
 				cmds.skinPercent(skinClusterNM, newKey, tv=mgv.verticeDict[key], zri=1)
