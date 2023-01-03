@@ -26,3 +26,10 @@ https://youtu.be/VRcPe2P-hlk
 1. Written in Python 3. Will not work in older Maya version.
 2. Works on hierarchal joint based skeleton system.
 3. Will ignore if something like a mesh, or helper is part of the hierarchal chain.
+
+
+## Changelog
+* V1.0 - Fit and skin skeleton using UV
+* V2.0 - Fit and skin skeleton using UV or dictionary method
+* V3.0 - (Coming soon) Dictionary Method for reskining is 1000x faster.
+* V4.0 - (In works) Reorient joints to fit the new chain
