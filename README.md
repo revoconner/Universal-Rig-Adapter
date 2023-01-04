@@ -31,5 +31,4 @@ https://youtu.be/VRcPe2P-hlk
 ## Changelog
 * V1.0 - Fit and skin skeleton using UV
 * V2.0 - Fit and skin skeleton using UV or dictionary method
-* V3.0 - (Coming soon) Dictionary Method for reskining is 1000x faster.
-* V4.0 - (In works) Reorient joints to fit the new chain
+
